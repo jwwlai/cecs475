@@ -1,0 +1,16 @@
+C:\Users\Shojo\Documents\Visual Studio 2010\Projects\CECS475\Lab4\Lab4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Shojo\Documents\Visual Studio 2010\Projects\CECS475\Lab4\Lab4\obj\x86\Debug\Lab4.Properties.Resources.resources
+C:\Users\Shojo\Documents\Visual Studio 2010\Projects\CECS475\Lab4\Lab4\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Shojo\Documents\Visual Studio 2010\Projects\CECS475\Lab4\Lab4\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Shojo\Documents\Visual Studio 2010\Projects\CECS475\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\Shojo\Documents\Visual Studio 2010\Projects\CECS475\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\Shojo\Documents\Visual Studio 2010\Projects\CECS475\Lab4\Lab4\obj\x86\Debug\Lab4.exe
+C:\Users\Shojo\Documents\Visual Studio 2010\Projects\CECS475\Lab4\Lab4\obj\x86\Debug\Lab4.pdb
+C:\Users\Shojo\Documents\Visual Studio 2010\Projects\CECS475\Lab4\Lab4\obj\x86\Debug\Lab4.EmployeeSalaryDisplay.resources
+C:\Users\Shojo\Documents\Visual Studio 2010\Projects\CECS475\Lab4\Lab4\obj\x86\Debug\Lab4.RootForm.resources
+C:\Users\Shojo\Documents\Visual Studio 2010\Projects\CECS475\Lab4\Lab4\obj\x86\Debug\Lab4.NewEmployeeInfoForm.resources
+C:\Users\Shojo\Documents\Visual Studio 2010\Projects\CECS475\Lab4\Lab4\obj\x86\Debug\Lab4.AboutBoxDisplay.resources
+C:\Users\Shojo\Documents\Visual Studio 2010\Projects\CECS475\Lab4\Lab4\obj\x86\Debug\Lab4.MessageForm.resources
+C:\Users\Shojo\Documents\Visual Studio 2010\Projects\CECS475\Lab4\Lab4\obj\x86\Debug\Lab4.TestForm.resources
+C:\Users\Julia\Dropbox\School\Classes\Spring 2013\CECS475\cecs475-lab4-julia\version8\Lab4\obj\x86\Debug\Lab4.exe
+C:\Users\Julia\Dropbox\School\Classes\Spring 2013\CECS475\cecs475-lab4-julia\version8\Lab4\obj\x86\Debug\Lab4.pdb
